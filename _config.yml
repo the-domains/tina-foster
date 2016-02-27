@@ -1,14 +1,14 @@
 layout_spectrum: 0.2394604
+typography_spectrum: 0.8878583
 color:
   saturation: 0.4907251
   lightness: 0.5
   brandStrength: 0.2676678
   brandColors:
-    - '#FAFCFD'
-    - '#1F1530'
-    - '#775C6E'
-    - '#CF6E5C'
-    - '#AC0B0D'
+    - '#EBF8FF'
+    - '#3A2F39'
+    - '#C5D0E9'
+    - '#FFC7BC'
+    - '#887F88'
   rhythmicContrast: 0.4822934
-typography_spectrum: 0.8878583
 name: Tina Foster
