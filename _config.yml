@@ -1,14 +1,26 @@
-layout_spectrum: 0.2394604
-typography_spectrum: 0.8878583
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.886172
 color:
   saturation: 0.4907251
+  brandStrength: 0.8187184
   lightness: 0.5
-  brandStrength: 0.2676678
   brandColors:
-    - '#EBF8FF'
-    - '#3A2F39'
-    - '#C5D0E9'
-    - '#FFC7BC'
-    - '#887F88'
+    - '#FFFFFF'
+    - '#D8BEA3'
+    - '#1F0C04'
+    - '#776478'
+    - '#9A271F'
   rhythmicContrast: 0.4822934
+layout_spectrum: 0.2394604
 name: Tina Foster
